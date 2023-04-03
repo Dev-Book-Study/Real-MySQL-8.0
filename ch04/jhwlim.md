@@ -1,0 +1,1 @@
+<https://jhwlim.gitbook.io/docs/database/mysql/real-mysql-8/ch04>
